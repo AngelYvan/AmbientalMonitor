@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/angel/AmbientalMonitor/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml",
+            "outputFile": "/home/angel/Descargas/AmbientalMonitor/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml",
             "map": [
                 {
                     "source": "/home/angel/.gradle/caches/transforms-2/files-2.1/e0ce30118f009144cac2d8db6700f7fe/res/values-vi/values-vi.xml",

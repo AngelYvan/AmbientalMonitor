@@ -1,12 +1,13 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:1:1-26:12
-MERGED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:1:1-26:12
-MERGED from [com.facebook.react:react-native:0.61.2] /home/angel/.gradle/caches/transforms-2/files-2.1/7e972fcdc8a60f5bb500ed7535c90ece/AndroidManifest.xml:2:1-13:12
-MERGED from [org.webkit:android-jsc:r245459] /home/angel/.gradle/caches/transforms-2/files-2.1/1ddfefb154733e46ef64e9733c995339/AndroidManifest.xml:2:1-11:12
+ADDED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-gesture-handler] /home/angel/Descargas/AmbientalMonitor/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.2] /home/angel/.gradle/caches/transforms-2/files-2.1/6160b65afa3671d65f0a7618a9517118/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /home/angel/.gradle/caches/transforms-2/files-2.1/95681e1d00a08f0603c1f4514c83d1bb/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] /home/angel/.gradle/caches/transforms-2/files-2.1/e0ce30118f009144cac2d8db6700f7fe/AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.fresco:fresco:2.0.0] /home/angel/.gradle/caches/transforms-2/files-2.1/ea38054d3f748d43c500a80676ff84b3/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/angel/.gradle/caches/transforms-2/files-2.1/e3f85e31ed8ef26e54f2a8c2b61361c5/AndroidManifest.xml:2:1-9:12
@@ -42,36 +43,36 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/angel/.grad
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/angel/.gradle/caches/transforms-2/files-2.1/dab1717a84cce0baa3751e57e8cff512/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /home/angel/.gradle/caches/transforms-2/files-2.1/8815ccff8a29a67bd1050e7197bc33ec/AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/angel/.gradle/caches/transforms-2/files-2.1/852e26a6699bb567a48ac3749865c266/AndroidManifest.xml:2:1-9:12
-INJECTED from /home/angel/AmbientalMonitor/android/app/src/debug/AndroidManifest.xml:2:1-8:12
-INJECTED from /home/angel/AmbientalMonitor/android/app/src/debug/AndroidManifest.xml:2:1-8:12
-INJECTED from /home/angel/AmbientalMonitor/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/angel/Descargas/AmbientalMonitor/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/angel/Descargas/AmbientalMonitor/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/angel/Descargas/AmbientalMonitor/android/app/src/debug/AndroidManifest.xml:2:1-8:12
 	package
-		ADDED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:2:3-33
-		INJECTED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:2:3-33
-		INJECTED from /home/angel/AmbientalMonitor/android/app/src/debug/AndroidManifest.xml
+		ADDED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:2:3-33
+		INJECTED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:2:3-33
+		INJECTED from /home/angel/Descargas/AmbientalMonitor/android/app/src/debug/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:1:1-26:12
-		INJECTED from /home/angel/AmbientalMonitor/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/angel/Descargas/AmbientalMonitor/android/app/src/debug/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /home/angel/AmbientalMonitor/android/app/src/debug/AndroidManifest.xml:3:5-51
+		ADDED from /home/angel/Descargas/AmbientalMonitor/android/app/src/debug/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:1:1-26:12
-		INJECTED from /home/angel/AmbientalMonitor/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/angel/Descargas/AmbientalMonitor/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:4:5-67
+ADDED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:4:5-67
 	android:name
-		ADDED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:4:22-64
+		ADDED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:4:22-64
 application
-ADDED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:6:5-24:19
-MERGED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:6:5-24:19
-MERGED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:6:5-24:19
-MERGED from [com.facebook.react:react-native:0.61.2] /home/angel/.gradle/caches/transforms-2/files-2.1/7e972fcdc8a60f5bb500ed7535c90ece/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.react:react-native:0.61.2] /home/angel/.gradle/caches/transforms-2/files-2.1/7e972fcdc8a60f5bb500ed7535c90ece/AndroidManifest.xml:11:5-20
+ADDED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.2] /home/angel/.gradle/caches/transforms-2/files-2.1/6160b65afa3671d65f0a7618a9517118/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.2] /home/angel/.gradle/caches/transforms-2/files-2.1/6160b65afa3671d65f0a7618a9517118/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.6.0] /home/angel/.gradle/caches/transforms-2/files-2.1/715f6aeaab82375833b76a5a130f854c/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.6.0] /home/angel/.gradle/caches/transforms-2/files-2.1/715f6aeaab82375833b76a5a130f854c/AndroidManifest.xml:11:5-20
 MERGED from [androidx.core:core:1.0.1] /home/angel/.gradle/caches/transforms-2/files-2.1/5c7dffd5be95c48ad76ff09e540bc53d/AndroidManifest.xml:22:5-89
@@ -81,61 +82,63 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/angel
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.1] /home/angel/.gradle/caches/transforms-2/files-2.1/5c7dffd5be95c48ad76ff09e540bc53d/AndroidManifest.xml:22:18-86
 	android:label
-		ADDED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:8:7-39
-		ADDED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:8:7-39
 	tools:ignore
-		ADDED from /home/angel/AmbientalMonitor/android/app/src/debug/AndroidManifest.xml:7:75-114
+		ADDED from /home/angel/Descargas/AmbientalMonitor/android/app/src/debug/AndroidManifest.xml:7:75-114
 	android:roundIcon
-		ADDED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:10:7-52
-		ADDED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:10:7-52
 	tools:targetApi
-		ADDED from /home/angel/AmbientalMonitor/android/app/src/debug/AndroidManifest.xml:7:54-74
+		ADDED from /home/angel/Descargas/AmbientalMonitor/android/app/src/debug/AndroidManifest.xml:7:54-74
 	android:icon
-		ADDED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:9:7-41
-		ADDED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:9:7-41
 	android:allowBackup
-		ADDED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:11:7-34
-		ADDED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:11:7-34
 	android:theme
-		ADDED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:12:7-38
-		ADDED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:12:7-38
 	android:usesCleartextTraffic
-		ADDED from /home/angel/AmbientalMonitor/android/app/src/debug/AndroidManifest.xml:7:18-53
+		ADDED from /home/angel/Descargas/AmbientalMonitor/android/app/src/debug/AndroidManifest.xml:7:18-53
 	android:name
-		ADDED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:7:7-38
-		ADDED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:7:7-38
 activity#com.ambientalmonitor.MainActivity
-ADDED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:13:7-22:18
+ADDED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:13:7-22:18
 	android:label
-		ADDED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:15:9-41
+		ADDED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:15:9-41
 	android:windowSoftInputMode
-		ADDED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:17:9-51
+		ADDED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:17:9-51
 	android:configChanges
-		ADDED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:16:9-79
+		ADDED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:16:9-79
 	android:name
-		ADDED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:14:9-37
+		ADDED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:14:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:18:9-21:25
+ADDED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:18:9-21:25
 action#android.intent.action.MAIN
-ADDED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:19:13-65
+ADDED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:19:13-65
 	android:name
-		ADDED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:19:21-62
+		ADDED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:19:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:20:13-73
+ADDED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:20:13-73
 	android:name
-		ADDED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:20:23-70
+		ADDED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:20:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:23:7-84
+ADDED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:23:7-84
 	android:name
-		ADDED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:23:17-81
+		ADDED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml:23:17-81
 uses-sdk
-INJECTED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml
-INJECTED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml
-MERGED from [com.facebook.react:react-native:0.61.2] /home/angel/.gradle/caches/transforms-2/files-2.1/7e972fcdc8a60f5bb500ed7535c90ece/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.61.2] /home/angel/.gradle/caches/transforms-2/files-2.1/7e972fcdc8a60f5bb500ed7535c90ece/AndroidManifest.xml:7:5-9:41
-MERGED from [org.webkit:android-jsc:r245459] /home/angel/.gradle/caches/transforms-2/files-2.1/1ddfefb154733e46ef64e9733c995339/AndroidManifest.xml:7:5-9:41
-MERGED from [org.webkit:android-jsc:r245459] /home/angel/.gradle/caches/transforms-2/files-2.1/1ddfefb154733e46ef64e9733c995339/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] /home/angel/Descargas/AmbientalMonitor/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/angel/Descargas/AmbientalMonitor/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.2] /home/angel/.gradle/caches/transforms-2/files-2.1/6160b65afa3671d65f0a7618a9517118/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.2] /home/angel/.gradle/caches/transforms-2/files-2.1/6160b65afa3671d65f0a7618a9517118/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/angel/.gradle/caches/transforms-2/files-2.1/95681e1d00a08f0603c1f4514c83d1bb/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/angel/.gradle/caches/transforms-2/files-2.1/95681e1d00a08f0603c1f4514c83d1bb/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.appcompat:appcompat:1.0.2] /home/angel/.gradle/caches/transforms-2/files-2.1/e0ce30118f009144cac2d8db6700f7fe/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.0.2] /home/angel/.gradle/caches/transforms-2/files-2.1/e0ce30118f009144cac2d8db6700f7fe/AndroidManifest.xml:20:5-44
 MERGED from [com.facebook.fresco:fresco:2.0.0] /home/angel/.gradle/caches/transforms-2/files-2.1/ea38054d3f748d43c500a80676ff84b3/AndroidManifest.xml:5:5-7:41
@@ -206,15 +209,15 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] /home/angel/.gradle/cache
 MERGED from [androidx.interpolator:interpolator:1.0.0] /home/angel/.gradle/caches/transforms-2/files-2.1/8815ccff8a29a67bd1050e7197bc33ec/AndroidManifest.xml:20:5-44
 MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/angel/.gradle/caches/transforms-2/files-2.1/852e26a6699bb567a48ac3749865c266/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/angel/.gradle/caches/transforms-2/files-2.1/852e26a6699bb567a48ac3749865c266/AndroidManifest.xml:5:5-7:41
-INJECTED from /home/angel/AmbientalMonitor/android/app/src/debug/AndroidManifest.xml
-INJECTED from /home/angel/AmbientalMonitor/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/angel/Descargas/AmbientalMonitor/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/angel/Descargas/AmbientalMonitor/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/angel/AmbientalMonitor/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/angel/Descargas/AmbientalMonitor/android/app/src/debug/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/angel/AmbientalMonitor/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/angel/AmbientalMonitor/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /home/angel/Descargas/AmbientalMonitor/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/angel/Descargas/AmbientalMonitor/android/app/src/debug/AndroidManifest.xml
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /home/angel/AmbientalMonitor/android/app/src/debug/AndroidManifest.xml:5:5-77
+ADDED from /home/angel/Descargas/AmbientalMonitor/android/app/src/debug/AndroidManifest.xml:5:5-77
 	android:name
-		ADDED from /home/angel/AmbientalMonitor/android/app/src/debug/AndroidManifest.xml:5:22-75
+		ADDED from /home/angel/Descargas/AmbientalMonitor/android/app/src/debug/AndroidManifest.xml:5:22-75
