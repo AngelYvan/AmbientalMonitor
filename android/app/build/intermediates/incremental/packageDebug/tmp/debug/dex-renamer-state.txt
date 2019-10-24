@@ -1,0 +1,4 @@
+#Thu Oct 17 16:25:28 PET 2019
+base.0=/home/angel/AmbientalMonitor/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
