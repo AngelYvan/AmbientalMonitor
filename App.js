@@ -10,27 +10,50 @@ class HomeScreen extends React.Component {
     return ( 
       <ImageBackground source={fondoHome} style={{width: '100%', height: '100%'}}>
         <View source={fondoHome} style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
-
           <Text>Home Screen</Text>
           <Button
-            title="Go to Details"
-            onPress={() => this.props.navigation.navigate('Details')}
+            title="Go to Tip1"
+            onPress={() => this.props.navigation.navigate('Tip1')}
           />
-
+          <Button
+            title="Go to Tip2"
+            onPress={() => this.props.navigation.navigate('Tip2')}
+          />
         </View>
       </ImageBackground>
     );
   }
 }
 
-class DetailsScreen extends React.Component {
+class Tip1Screen extends React.Component {
   render() {
     return (
       <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
-        <Text>Details Screen</Text>
+        <Text>Tip1 Screen</Text>
         <Button
-          title="Go to Details... again"
-          onPress={() => this.props.navigation.push('Details')}
+          title="Go to Tip1... again"
+          onPress={() => this.props.navigation.push('Top1')}
+        />
+        <Button
+          title="Go to Home"
+          onPress={() => this.props.navigation.navigate('Home')}
+        />
+        <Button
+          title="Go back"
+          onPress={() => this.props.navigation.goBack()}
+        />
+      </View>
+    );
+  }
+}
+class Tip2Screen extends React.Component {
+  render() {
+    return (
+      <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
+        <Text>Tip2 Screen</Text>
+        <Button
+          title="Go to Tip2... again"
+          onPress={() => this.props.navigation.push('Top2')}
         />
         <Button
           title="Go to Home"
@@ -47,7 +70,8 @@ class DetailsScreen extends React.Component {
 
 const RootStack = createStackNavigator({
   Home: HomeScreen,
-  Details: DetailsScreen,
+  Tip1: Tip1Screen,
+  Tip2: Tip2Screen,
 });
 
 export default createAppContainer(RootStack);
